@@ -1,4 +1,4 @@
-module etag
+module github.com/mdncv/etag
 
 go 1.20
 
